@@ -4,3 +4,6 @@
 [submodule "zynq-pico-uart-i2c-tmp3"]
 	path = zynq-pico-uart-i2c-tmp3
 	url = git@github.com:michaelgranberryii/zynq-pico-uart-i2c-tmp3.git
+[submodule "free-rtos-basics"]
+	path = free-rtos-basics
+	url = git@github.com:michaelgranberryii/free-rtos-basics.git
