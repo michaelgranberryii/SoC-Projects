@@ -7,3 +7,6 @@
 [submodule "free-rtos-basics"]
 	path = free-rtos-basics
 	url = git@github.com:michaelgranberryii/free-rtos-basics.git
+[submodule "stm32-peripherals"]
+	path = stm32-peripherals
+	url = git@github.com:michaelgranberryii/stm32-peripherals.git
