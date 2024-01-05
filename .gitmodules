@@ -1,3 +1,6 @@
 [submodule "rpi-pico-tictactoe"]
 	path = rpi-pico-tictactoe
 	url = git@github.com:michaelgranberryii/rpi-pico-tictactoe.git
+[submodule "zynq-pico-uart-i2c-tmp3"]
+	path = zynq-pico-uart-i2c-tmp3
+	url = git@github.com:michaelgranberryii/zynq-pico-uart-i2c-tmp3.git
