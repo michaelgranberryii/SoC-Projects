@@ -10,3 +10,9 @@
 [submodule "stm32-peripherals"]
 	path = stm32-peripherals
 	url = git@github.com:michaelgranberryii/stm32-peripherals.git
+[submodule "rpi-pico-simon-game"]
+	path = rpi-pico-simon-game
+	url = git@github.com:michaelgranberryii/rpi-pico-simon-game.git
+[submodule "rpi-pico-i2c-temp-sensor"]
+	path = rpi-pico-i2c-temp-sensor
+	url = git@github.com:michaelgranberryii/rpi-pico-i2c-temp-sensor.git
