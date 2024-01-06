@@ -1,5 +1,5 @@
 # SoC Projects
-A collection of robotics projects developed on the TI-RSLK robot kit. The project span a broad range of topics from serial communication, tachometer, light sensors, distance sensors, timers, ACDs, GPIOs, and object avoidance / follower algorithms.
+A collection of SoC projects using various microcontrollers, such as a STM32 Nulceo board, Raspberry Pi Pico, and a Zybo Z7-10 development board. The projects utilized serval PMODs and microprocessor peripherals, and are written in C/Cpp.
 
 ## Projects
 * [Zync RPi Pico Temperature Sensor + I2C and UART](https://github.com/michaelgranberryii/zynq-pico-uart-i2c-tmp3)
