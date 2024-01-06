@@ -5,4 +5,6 @@ A collection of SoC projects using various microcontrollers, such as a STM32 Nul
 * [Zync Processor, RPi Pico, I2C Temperature Sensor, UART](https://github.com/michaelgranberryii/zynq-pico-uart-i2c-tmp3)
 * [FreeRtos Basics](https://github.com/michaelgranberryii/free-rtos-basics)
 * [STM32 Nucleo Board Peripherals](https://github.com/michaelgranberryii/stm32-peripherals)
-* [RPi Pico TicTacToe](https://github.com/michaelgranberryii/rpi-pico-tictactoe)
+* [RPi Pico I2C Temperature Sensor](https://github.com/michaelgranberryii/rpi-pico-i2c-temp-sensor)
+* [RPi Pico Simon Game](https://github.com/michaelgranberryii/rpi-pico-simon-game)
+* [RPi Pico TicTacToe Game](https://github.com/michaelgranberryii/rpi-pico-tictactoe)
